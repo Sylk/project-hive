@@ -14,7 +14,7 @@ Can Pod [Custom Robo Battle Revolution]
     .BA<-BuildTitle
 PartName:
     String|
-"Bad Pod^` (CRBR)"
+"Can Pod^` (CRBR)"
 BuildTitle:
     String|
 " (CRBR)"

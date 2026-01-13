@@ -14,7 +14,7 @@ Can Bomb [Custom Robo Battle Revolution]
     .BA<-BuildTitle
 PartName:
     String|
-"Bad Bomb^` (CRBR)"
+"Can Bomb^` (CRBR)"
 BuildTitle:
     String|
 " (CRBR)"

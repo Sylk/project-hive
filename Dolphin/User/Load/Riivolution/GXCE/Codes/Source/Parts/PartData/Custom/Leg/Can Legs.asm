@@ -14,7 +14,7 @@ Can Legs [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Bad Legs^`"
+"Can Legs^`"
 BuildTitle:
     String|
 ""

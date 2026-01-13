@@ -14,7 +14,7 @@ Can Gun [Custom Robo Battle Revolution]
     .BA<-BuildTitle
 PartName:
     String|
-"Bad Gun^` (CRBR)"
+"Can Gun^` (CRBR)"
 BuildTitle:
     String|
 " (CRBR)"
