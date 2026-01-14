@@ -32,26 +32,6 @@
 .include "Source/Parts/PartData/CRBR/Body/FBHDourHead.asm"
 .include "Source/Parts/PartData/CRBR/Body/FBHTankHead.asm"
 
-.include "Source/Parts/PartData/CRBR/Body/BBChickenheart.asm"
-.include "Source/Parts/PartData/CRBR/Body/BBRahu2.asm"
-.include "Source/Parts/PartData/CRBR/Body/BBRuhiel.asm"
-
-.include "Source/Parts/PartData/CRBR/Body/WSRayLegend.asm"
-.include "Source/Parts/PartData/CRBR/Body/WSRakansen.asm"
-.include "Source/Parts/PartData/CRBR/Body/WSRayWarrior.asm"
-
-.include "Source/Parts/PartData/CRBR/Body/SSAthena.asm"
-.include "Source/Parts/PartData/CRBR/Body/SSSeeker.asm"
-.include "Source/Parts/PartData/CRBR/Body/SSMilkyWay.asm"
-
-.include "Source/Parts/PartData/CRBR/Body/LDSwift.asm"
-.include "Source/Parts/PartData/CRBR/Body/LDDefender.asm"
-.include "Source/Parts/PartData/CRBR/Body/LDBreaker.asm"
-
-.include "Source/Parts/PartData/CRBR/Body/SJJavelin.asm"
-.include "Source/Parts/PartData/CRBR/Body/SJSplendor.asm"
-.include "Source/Parts/PartData/CRBR/Body/SJRahu.asm"
-
 #Guns
 .include "Source/Parts/PartData/CRBR/Gun/Basic Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Needle Gun.asm"
@@ -71,14 +51,12 @@
 .include "Source/Parts/PartData/CRBR/Gun/Magnum Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Drill Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Knuckle Gun.asm"
-.include "Source/Parts/PartData/CRBR/Gun/Quickshot Gun.asm"
 
 .include "Source/Parts/PartData/CRBR/Gun/Surge Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Flame Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Hornet Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Vertical Gun.asm"
 
-.include "Source/Parts/PartData/CRBR/Gun/Buster Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Meteor Storm Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Left Pulse Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Right Pulse Gun.asm"
@@ -105,7 +83,6 @@
 
 .include "Source/Parts/PartData/CRBR/Gun/Sword Storm Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Vulture Gun.asm"
-.include "Source/Parts/PartData/CRBR/Gun/Pursuit Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Titan Gun.asm"
 
 .include "Source/Parts/PartData/CRBR/Gun/Left 5-Way Gun.asm"
@@ -170,16 +147,9 @@
 .include "Source/Parts/PartData/CRBR/Bomb/Double Mine Bomb.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Geo Trap Bomb.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Titan Bomb.asm"
-.include "Source/Parts/PartData/CRBR/Bomb/Solar Pillar Bomb.asm"
 
-.include "Source/Parts/PartData/CRBR/Bomb/Rapid Bomb.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Grand Cross Bomb.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Cluster Bomb.asm"
-
-.include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb R.asm"
-.include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb D.asm"
-.include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb H.asm"
-.include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb K.asm"
 
 #Pods
 .include "Source/Parts/PartData/CRBR/Pod/Standard Pod R.asm"
@@ -239,7 +209,6 @@
 .include "Source/Parts/PartData/CRBR/Leg/Standard Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Formula Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Stabilizer Legs.asm"
-.include "Source/Parts/PartData/CRBR/Leg/Precision Legs.asm"
 
 .include "Source/Parts/PartData/CRBR/Leg/Wide Jump Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Aerial Legs.asm"
@@ -254,7 +223,6 @@
 .include "Source/Parts/PartData/CRBR/Leg/Short Thrust Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Long Thrust Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Swallow Legs.asm"
-.include "Source/Parts/PartData/CRBR/Leg/Plus One Legs.asm"
 
 .include "Source/Parts/PartData/CRBR/Leg/Booster Legs.asm"
 .include "Source/Parts/PartData/CRBR/Leg/Overhaul Legs.asm"
