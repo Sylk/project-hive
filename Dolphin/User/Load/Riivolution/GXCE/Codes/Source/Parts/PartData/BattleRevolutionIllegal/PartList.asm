@@ -1,14 +1,17 @@
 #Custom Robo Battle Revolution Base Game Illegal Parts
 #Body
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Athena.asm"
-.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Oil Can.asm"
+.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Ruhiel.asm"
+.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Rakansen.asm"
+
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Rahu I.asm"
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Rahu II.asm"
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Rahu III.asm"
-.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Rakansen.asm"
+
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Ray Legend.asm"
 .include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Ray Warrior.asm"
-.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Ruhiel.asm"
+.include "Source/Parts/PartData/BattleRevolutionIllegal/Body/Oil Can.asm"
+
 
 #Guns
 .include "Source\Parts\PartData\BattleRevolutionIllegal\Gun\Can Gun.asm"
