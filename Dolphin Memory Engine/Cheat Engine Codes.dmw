@@ -1,0 +1,4531 @@
+{
+    "structDefs": {
+        "rootNode": [
+        ]
+    },
+    "watchList": [
+        {
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "80323398",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80323458",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C5C",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C60",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C64",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C74",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C7C",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C80",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C88",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C8C",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C90",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C94",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324C98",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80324CA0",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80386388",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803863B8",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803863BC",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803E83B8",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803E83C8",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803E83CC",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803EBB50",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803EBB60",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803EBB64",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041F2F4",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80461854",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8046266C",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "81317220",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "81317300",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 3,
+                    "unsigned": true
+                }
+            ],
+            "groupName": "Camera Rotation Research"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80F90000",
+            "baseIndex": 0,
+            "label": "Custom Start",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8031FEEA",
+            "baseIndex": 1,
+            "label": "P1 Input 1",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8031FEEB",
+            "baseIndex": 1,
+            "label": "P1 Input 2",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8031FF8E",
+            "baseIndex": 1,
+            "label": "P2 Input 1",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8031FF8F",
+            "baseIndex": 1,
+            "label": "P2 Input 2",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCF8",
+                    "baseIndex": 0,
+                    "label": "Down",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFA",
+                    "baseIndex": 0,
+                    "label": "Defense",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFB",
+                    "baseIndex": 0,
+                    "label": "Knockback",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFC",
+                    "baseIndex": 0,
+                    "label": "Hitstun",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFD",
+                    "baseIndex": 0,
+                    "label": "Illegal Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFE",
+                    "baseIndex": 0,
+                    "label": "Down w/o Mash",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FCFF",
+                    "baseIndex": 0,
+                    "label": "Down with Mash",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD00",
+                    "baseIndex": 0,
+                    "label": "Downed Damage (Guns)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD01",
+                    "baseIndex": 0,
+                    "label": "Downed Damage (Bombs)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD02",
+                    "baseIndex": 0,
+                    "label": "Downed Damage (Pods)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD03",
+                    "baseIndex": 0,
+                    "label": "Downed Damage (Charge)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD04",
+                    "baseIndex": 0,
+                    "label": "Gun Damage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD05",
+                    "baseIndex": 0,
+                    "label": "Bomb Damage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD06",
+                    "baseIndex": 0,
+                    "label": "Pod Damage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD07",
+                    "baseIndex": 0,
+                    "label": "Gun Endlag",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD08",
+                    "baseIndex": 0,
+                    "label": "Air Dash Startup (R)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD09",
+                    "baseIndex": 0,
+                    "label": "Air Dash Startup (U)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0A",
+                    "baseIndex": 0,
+                    "label": "Air Dash Startup (B)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0B",
+                    "baseIndex": 0,
+                    "label": "Dash Landing Lag (R)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0C",
+                    "baseIndex": 0,
+                    "label": "Dash Landing Lag (U)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0D",
+                    "baseIndex": 0,
+                    "label": "Dash Landing Lag (B)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0E",
+                    "baseIndex": 0,
+                    "label": "Air Dash Type",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD0F",
+                    "baseIndex": 0,
+                    "label": "Continuous Jumps",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD10",
+                    "baseIndex": 0,
+                    "label": "Continuous Jump Height (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD12",
+                    "baseIndex": 0,
+                    "label": "Continuous Jump Height (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD14",
+                    "baseIndex": 0,
+                    "label": "Continuous Jump Height (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD16",
+                    "baseIndex": 0,
+                    "label": "Number of Air Dashes",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD17",
+                    "baseIndex": 0,
+                    "label": "SV Air Dash Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD18",
+                    "baseIndex": 0,
+                    "label": "Air Dash Angle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD19",
+                    "baseIndex": 0,
+                    "label": "Air Dash Length (R)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD1A",
+                    "baseIndex": 0,
+                    "label": "Air Dash Length (U)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD1B",
+                    "baseIndex": 0,
+                    "label": "Air Dash Length (B)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD1C",
+                    "baseIndex": 0,
+                    "label": "Air Dash Speed (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD1E",
+                    "baseIndex": 0,
+                    "label": "Air Dash Speed (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD20",
+                    "baseIndex": 0,
+                    "label": "Air Dash Speed (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD22",
+                    "baseIndex": 0,
+                    "label": "LS Dash Turning (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD24",
+                    "baseIndex": 0,
+                    "label": "LS Dash Turning (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD26",
+                    "baseIndex": 0,
+                    "label": "LS Dash Turning (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD28",
+                    "baseIndex": 0,
+                    "label": "Run Speed (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD2A",
+                    "baseIndex": 0,
+                    "label": "Run Speed (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD2C",
+                    "baseIndex": 0,
+                    "label": "Run Speed (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD2E",
+                    "baseIndex": 0,
+                    "label": "Ground Acceleration (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD30",
+                    "baseIndex": 0,
+                    "label": "Ground Acceleration (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD32",
+                    "baseIndex": 0,
+                    "label": "Ground Acceleration (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD34",
+                    "baseIndex": 0,
+                    "label": "Ground Turning (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD36",
+                    "baseIndex": 0,
+                    "label": "Ground Turning (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD38",
+                    "baseIndex": 0,
+                    "label": "Ground Turning (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD3A",
+                    "baseIndex": 0,
+                    "label": "Jump Height (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD3C",
+                    "baseIndex": 0,
+                    "label": "Jump Height (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD3E",
+                    "baseIndex": 0,
+                    "label": "Jump Height (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD40",
+                    "baseIndex": 0,
+                    "label": "Jump Speed (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD42",
+                    "baseIndex": 0,
+                    "label": "Jump Speed (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD44",
+                    "baseIndex": 0,
+                    "label": "Jump Speed (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD46",
+                    "baseIndex": 0,
+                    "label": "Lateral Air Speed (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD48",
+                    "baseIndex": 0,
+                    "label": "Lateral Air Speed (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD4A",
+                    "baseIndex": 0,
+                    "label": "Lateral Air Speed (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD4C",
+                    "baseIndex": 0,
+                    "label": "Air Acceleration (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD4E",
+                    "baseIndex": 0,
+                    "label": "Air Acceleration (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD50",
+                    "baseIndex": 0,
+                    "label": "Air Acceleration (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD52",
+                    "baseIndex": 0,
+                    "label": "Landing Lag (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD54",
+                    "baseIndex": 0,
+                    "label": "Landing Lag (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD56",
+                    "baseIndex": 0,
+                    "label": "Landing Lag (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD58",
+                    "baseIndex": 0,
+                    "label": "Boosted Gravity (R)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD5A",
+                    "baseIndex": 0,
+                    "label": "Boosted Gravity (U)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD5C",
+                    "baseIndex": 0,
+                    "label": "Boosted Gravity (B)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD5E",
+                    "baseIndex": 0,
+                    "label": "Collision Box Size Related 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD60",
+                    "baseIndex": 0,
+                    "label": "Collision Box Size Related 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD64",
+                    "baseIndex": 0,
+                    "label": "Hurtbox Size",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD88",
+                    "baseIndex": 0,
+                    "label": "Invulnerability 1",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD89",
+                    "baseIndex": 0,
+                    "label": "Invisibility 1",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD8A",
+                    "baseIndex": 0,
+                    "label": "Charge Damage 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD8C",
+                    "baseIndex": 0,
+                    "label": "Knockback Velocity 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD8E",
+                    "baseIndex": 0,
+                    "label": "Knockback Angle 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD90",
+                    "baseIndex": 0,
+                    "label": "Homing 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD92",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Duration 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD94",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Duration 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD96",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Duration 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD98",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Speed 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD9A",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Speed 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD9C",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Speed 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FD9E",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Angle 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDA0",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Angle 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDA2",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Angle 1",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDA4",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 1 (1)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDA6",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 2 (1)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDA8",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 3 (1)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDCA",
+                    "baseIndex": 0,
+                    "label": "Invulnerability 2",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDCB",
+                    "baseIndex": 0,
+                    "label": "Invisibility 2",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDCC",
+                    "baseIndex": 0,
+                    "label": "Charge Damage 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDCE",
+                    "baseIndex": 0,
+                    "label": "Knockback Velocity 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDD0",
+                    "baseIndex": 0,
+                    "label": "Knockback Angle 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDD2",
+                    "baseIndex": 0,
+                    "label": "Homing 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDD4",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Duration 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDD6",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Duration 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDD8",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Duration 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDDA",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Speed 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDDC",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Speed 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDDE",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Speed 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDE0",
+                    "baseIndex": 0,
+                    "label": "Startup Phase Angle 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDE2",
+                    "baseIndex": 0,
+                    "label": "Attack Phase Angle 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDE4",
+                    "baseIndex": 0,
+                    "label": "Recovery Phase Angle 2",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDE6",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 1 (2)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDE8",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 2 (2)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FDEA",
+                    "baseIndex": 0,
+                    "label": "Hitbox Size Related 3 (2)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "P1 Current Robo Stats"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8028153C",
+                    "baseIndex": 0,
+                    "label": "Run Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8028153E",
+                    "baseIndex": 0,
+                    "label": "Ground Acceleration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281540",
+                    "baseIndex": 0,
+                    "label": "Ground Turning",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281542",
+                    "baseIndex": 0,
+                    "label": "Jump Height",
+                    "typeIndex": 1,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281544",
+                    "baseIndex": 0,
+                    "label": "Jump Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281546",
+                    "baseIndex": 0,
+                    "label": "Lateral Air Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281548",
+                    "baseIndex": 0,
+                    "label": "Air Acceleration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8028154A",
+                    "baseIndex": 0,
+                    "label": "Landing Lag",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8028154C",
+                    "baseIndex": 0,
+                    "label": "Gravity",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8028154E",
+                    "baseIndex": 0,
+                    "label": "Dash Startup",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281550",
+                    "baseIndex": 0,
+                    "label": "Dash Landing Lag",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281552",
+                    "baseIndex": 0,
+                    "label": "Continuous Jump Height",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281554",
+                    "baseIndex": 0,
+                    "label": "Dash Duration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80281556",
+                    "baseIndex": 0,
+                    "label": "Dash Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "P1 Leg Stats"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFE8",
+                    "baseIndex": 0,
+                    "label": "Illegal Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFE9",
+                    "baseIndex": 0,
+                    "label": "Slideshot Duration",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFEA",
+                    "baseIndex": 0,
+                    "label": "Related to Homing",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFEF",
+                    "baseIndex": 0,
+                    "label": "Trail",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFF0",
+                    "baseIndex": 1,
+                    "label": "Left Portion RGBA",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFF4",
+                    "baseIndex": 1,
+                    "label": "Middle Portion RGBA",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFF8",
+                    "baseIndex": 1,
+                    "label": "Right Portion RGBA",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8024FFFC",
+                    "baseIndex": 1,
+                    "label": "Unknown RGBA",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250000",
+                            "baseIndex": 1,
+                            "label": "Trail Duration",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250024",
+                            "baseIndex": 0,
+                            "label": "Startup",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250025",
+                            "baseIndex": 0,
+                            "label": "Number of Shots",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250026",
+                            "baseIndex": 0,
+                            "label": "Rounds per Shot",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250027",
+                            "baseIndex": 0,
+                            "label": "Shot Spread",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250028",
+                            "baseIndex": 0,
+                            "label": "Delay Between Shots",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250029",
+                            "baseIndex": 0,
+                            "label": "Endlag",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025002A",
+                            "baseIndex": 1,
+                            "label": "Shot Randomization",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025002C",
+                            "baseIndex": 0,
+                            "label": "Spread Phase",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025002E",
+                            "baseIndex": 1,
+                            "label": "Initial Shot Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250030",
+                            "baseIndex": 1,
+                            "label": "Angle Between Simultaneous Shots",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Stats"
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250034",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250038",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025003C",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250040",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250044",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250048",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025004A",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025004C",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025004E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250050",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250052",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250054",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250056",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250058",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025005A",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Phase 1"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025005C",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250060",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250064",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250068",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025006C",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250070",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250072",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250074",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250076",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250078",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025007A",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025007C",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025007E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250080",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250082",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Phase 2"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250084",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250088",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025008C",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250090",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250094",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250098",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025009A",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025009C",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025009E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500A0",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500A2",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500A4",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500A6",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500A8",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500AA",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Phase 3"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500AC",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500B0",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500B4",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500B8",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500BC",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500C0",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500C2",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500C4",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500C6",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500C8",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500CA",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500CC",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500CE",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500D0",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500D2",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Phase 4"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500D4",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500D8",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500DC",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500E0",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500E4",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500E8",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500EA",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500EC",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500EE",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500F0",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500F2",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500F4",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500F6",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500F8",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500FA",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Phase 5"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500FC",
+                            "baseIndex": 0,
+                            "label": "Startup",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500FD",
+                            "baseIndex": 0,
+                            "label": "Number of Shots",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500FE",
+                            "baseIndex": 0,
+                            "label": "Rounds per Shot",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802500FF",
+                            "baseIndex": 0,
+                            "label": "Shot Spread",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250100",
+                            "baseIndex": 0,
+                            "label": "Delay Between Shots",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250101",
+                            "baseIndex": 0,
+                            "label": "Endlag",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250102",
+                            "baseIndex": 1,
+                            "label": "Shot Randomization",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250104",
+                            "baseIndex": 0,
+                            "label": "Spread Phase",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250106",
+                            "baseIndex": 0,
+                            "label": "Initial Shot Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250108",
+                            "baseIndex": 0,
+                            "label": "Angle Between Simultaneous Shots",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Stats"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025010C",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250110",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250114",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250118",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025011C",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250120",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250122",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250124",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250126",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250128",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025012A",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025012C",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025012E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250130",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250132",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Phase 1"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250134",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250138",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025013C",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250140",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250144",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250148",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025014A",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025014C",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025014E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250150",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250152",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250154",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250156",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250158",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025015A",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Phase 2"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025015C",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250160",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250164",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250168",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025016C",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250170",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250172",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250174",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250176",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250178",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025017A",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025017C",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025017E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250180",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250182",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Phase 3"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250184",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250188",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025018C",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250190",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250194",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80250198",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025019A",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025019C",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "8025019E",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501A0",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501A2",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501A4",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501A6",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501A8",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501AA",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Phase 4"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501AC",
+                            "baseIndex": 0,
+                            "label": "Phase Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501B0",
+                            "baseIndex": 0,
+                            "label": "Phase Speed",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501B4",
+                            "baseIndex": 0,
+                            "label": "Horizontal Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501B8",
+                            "baseIndex": 0,
+                            "label": "Vertical Homing",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501BC",
+                            "baseIndex": 0,
+                            "label": "Shot Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501C0",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501C2",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501C4",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501C6",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501C8",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501CA",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501CC",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501CE",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501D0",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "802501D2",
+                            "baseIndex": 0,
+                            "label": "On-Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Phase 5"
+                }
+            ],
+            "groupName": "P1 Gun Stats"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "80276F08",
+                    "baseIndex": 0,
+                    "label": "Illegal Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80276F09",
+                    "baseIndex": 0,
+                    "label": "Number of Bombs Fired",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80276F0A",
+                    "baseIndex": 0,
+                    "label": "Explosion Trigger Radius",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F0C",
+                            "baseIndex": 0,
+                            "label": "Starting location of reticle",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F0D",
+                            "baseIndex": 0,
+                            "label": "Reload",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F0E",
+                            "baseIndex": 0,
+                            "label": "Burrow Time",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F10",
+                            "baseIndex": 0,
+                            "label": "Projectile Speed",
+                            "typeIndex": 1,
+                            "unsigned": true
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F14",
+                            "baseIndex": 0,
+                            "label": "Number of Explosions",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F15",
+                            "baseIndex": 0,
+                            "label": "Delay between Explosions",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F16",
+                            "baseIndex": 0,
+                            "label": "Explosion Expansion Radius",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F18",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F1C",
+                            "baseIndex": 0,
+                            "label": "Explosion Size after Initial Expansion",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F20",
+                            "baseIndex": 0,
+                            "label": "Final Explosion Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F24",
+                            "baseIndex": 0,
+                            "label": "Explosion Height",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F28",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F2A",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F2C",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F2E",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F30",
+                            "baseIndex": 0,
+                            "label": "Hitstun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F32",
+                            "baseIndex": 0,
+                            "label": "On Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F34",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F36",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F38",
+                            "baseIndex": 0,
+                            "label": "On Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Ground Shot"
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F3C",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacement",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F3E",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F40",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F42",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "First Ground Bomb"
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F44",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F46",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F48",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F4A",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Second Ground Bomb"
+                },
+                {
+                    "expanded": true,
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F4C",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F4E",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F50",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F52",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Third Ground Bomb"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F54",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F56",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F58",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F5A",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Fourth Ground Bomb"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F5C",
+                            "baseIndex": 0,
+                            "label": "Starting location of reticle",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F5D",
+                            "baseIndex": 0,
+                            "label": "Reload",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F5E",
+                            "baseIndex": 0,
+                            "label": "Burrow Time",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F60",
+                            "baseIndex": 1,
+                            "label": "Projectile Speed",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F64",
+                            "baseIndex": 0,
+                            "label": "Number of Explosions",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F65",
+                            "baseIndex": 0,
+                            "label": "Delay between Explosions",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F66",
+                            "baseIndex": 0,
+                            "label": "Explosion Expansion Radius",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F68",
+                            "baseIndex": 0,
+                            "label": "Lingering Hitbox Duration",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F6C",
+                            "baseIndex": 0,
+                            "label": "Explosion Size after Initial Expansion",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F70",
+                            "baseIndex": 0,
+                            "label": "Final Explosion Size",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F74",
+                            "baseIndex": 0,
+                            "label": "Explosion Height",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F78",
+                            "baseIndex": 0,
+                            "label": "Damage",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F7A",
+                            "baseIndex": 0,
+                            "label": "Down",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F7C",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F7E",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F80",
+                            "baseIndex": 0,
+                            "label": "Histun",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F82",
+                            "baseIndex": 0,
+                            "label": "On Hit Gravity",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F84",
+                            "baseIndex": 0,
+                            "label": "Knockback Velocity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F86",
+                            "baseIndex": 0,
+                            "label": "Knockback Angle (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F88",
+                            "baseIndex": 0,
+                            "label": "On Hit Gravity (Downed)",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Air Shot"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F8C",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F8E",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F90",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F92",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "First Air Bomb"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F94",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F96",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F98",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F9A",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Second Air Bomb"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F9C",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276F9E",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FA0",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FA2",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Third Air Bomb"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FA4",
+                            "baseIndex": 0,
+                            "label": "Left / Right Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FA6",
+                            "baseIndex": 0,
+                            "label": "Front / Back Landing Displacment",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FA8",
+                            "baseIndex": 0,
+                            "label": "Vertical Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "absoluteBranch": false,
+                            "address": "80276FAA",
+                            "baseIndex": 0,
+                            "label": "Horizontal Arc Angle",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Fourth Air Bomb"
+                }
+            ],
+            "groupName": "P1 Bomb Stats"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4E8",
+                    "baseIndex": 0,
+                    "label": "Illegal Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4E9",
+                    "baseIndex": 0,
+                    "label": "Pod Count (Max 3)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4EA",
+                    "baseIndex": 0,
+                    "label": "Number of Pods fired at once (Max 3)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4EC",
+                    "baseIndex": 0,
+                    "label": "Angle between simultaneous pods",
+                    "typeIndex": 1,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4EE",
+                    "baseIndex": 0,
+                    "label": "Horizontal Explosion Trigger Radius",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4F0",
+                    "baseIndex": 0,
+                    "label": "Vertical Explosion Trigger Radius",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4F2",
+                    "baseIndex": 0,
+                    "label": "Fuse Time",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4F4",
+                    "baseIndex": 0,
+                    "label": "Angle Pod faces at ground launch",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4F8",
+                    "baseIndex": 0,
+                    "label": "Angle Pod faces at air launch",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4FC",
+                    "baseIndex": 0,
+                    "label": "Homing Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4FD",
+                    "baseIndex": 0,
+                    "label": "Roaming Phase Homing",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C4FE",
+                    "baseIndex": 0,
+                    "label": "Locked On Phase Homing",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C500",
+                    "baseIndex": 0,
+                    "label": "Roaming Phase Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C502",
+                    "baseIndex": 0,
+                    "label": "Locked On Phase Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C504",
+                    "baseIndex": 0,
+                    "label": "Roaming Phase Height",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C506",
+                    "baseIndex": 0,
+                    "label": "Locked On Phase Height",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C508",
+                    "baseIndex": 0,
+                    "label": "Angle for cone of vision for activating lock on phase",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C50A",
+                    "baseIndex": 0,
+                    "label": "Lock On Range",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C50C",
+                    "baseIndex": 0,
+                    "label": "Duration of pause for switching between roaming and locked on",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C50E",
+                    "baseIndex": 0,
+                    "label": "Initial Ground Launch Angle",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C510",
+                    "baseIndex": 0,
+                    "label": "Initial Air Launch Angle",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C512",
+                    "baseIndex": 0,
+                    "label": "Initial Ground Launch Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C514",
+                    "baseIndex": 0,
+                    "label": "Initial Air Launch Speed",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C516",
+                    "baseIndex": 0,
+                    "label": "Initial Ground Launch Duration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C518",
+                    "baseIndex": 0,
+                    "label": "Initial Air Launch Duration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C51A",
+                    "baseIndex": 0,
+                    "label": "Bounce Off Wall Toggle",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C51B",
+                    "baseIndex": 0,
+                    "label": "Pod Size",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C51C",
+                    "baseIndex": 0,
+                    "label": "Number of Explosions",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C51D",
+                    "baseIndex": 0,
+                    "label": "Delay between Explosions",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C51E",
+                    "baseIndex": 0,
+                    "label": "Explosion Expansion Duration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C520",
+                    "baseIndex": 0,
+                    "label": "Explosion Lingering Hitbox Duration",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C524",
+                    "baseIndex": 0,
+                    "label": "eExplosion Size after Initial Expansion",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C528",
+                    "baseIndex": 0,
+                    "label": "Final Explosion Size",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C52C",
+                    "baseIndex": 0,
+                    "label": "Explosion Height",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C530",
+                    "baseIndex": 0,
+                    "label": "Damage",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C532",
+                    "baseIndex": 0,
+                    "label": "Down",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C534",
+                    "baseIndex": 0,
+                    "label": "Knockback Velocity",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C536",
+                    "baseIndex": 0,
+                    "label": "Knockback Angle",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C538",
+                    "baseIndex": 0,
+                    "label": "Hitstun",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C53A",
+                    "baseIndex": 0,
+                    "label": "On-Hit Gravity",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C53C",
+                    "baseIndex": 0,
+                    "label": "Knockback Velocity (Downed)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C53E",
+                    "baseIndex": 0,
+                    "label": "Knockback Anlge (Downed)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8027C540",
+                    "baseIndex": 0,
+                    "label": "On-Hit Gravity (Downed)",
+                    "typeIndex": 1,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "P1 Pod Stats"
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8039A74B",
+                    "baseIndex": 0,
+                    "label": "Save Menu?",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8021A759",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8021A6E5",
+                    "baseIndex": 1,
+                    "label": "test",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8021A75A",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8021A75B",
+                    "baseIndex": 0,
+                    "label": "No label",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A245",
+                    "baseIndex": 0,
+                    "label": "Stage Row",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A246",
+                    "baseIndex": 0,
+                    "label": "Stage Camera",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A248",
+                    "baseIndex": 0,
+                    "label": "Stage Column",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8044F885",
+                    "baseIndex": 1,
+                    "label": "Menu Select",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8044F986",
+                    "baseIndex": 1,
+                    "label": "Game State Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041CBFC",
+                    "baseIndex": 0,
+                    "label": "Menu 1 Position",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8044F884",
+                    "baseIndex": 0,
+                    "label": "Menu 2 Position",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041CBEE",
+                    "baseIndex": 0,
+                    "label": "Menu 3 Position",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8044F873",
+                    "baseIndex": 0,
+                    "label": "Menu 4 Position",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8044F87C",
+                    "baseIndex": 1,
+                    "label": "Menu Position Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Menu"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2D6",
+                    "baseIndex": 0,
+                    "label": "Basic Arena",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2D7",
+                    "baseIndex": 0,
+                    "label": "High-Rise Plaza",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2D8",
+                    "baseIndex": 0,
+                    "label": "L Formation",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2D9",
+                    "baseIndex": 0,
+                    "label": "Frozen Field",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DA",
+                    "baseIndex": 0,
+                    "label": "Impact Craters",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DB",
+                    "baseIndex": 0,
+                    "label": "Flower Garden",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DC",
+                    "baseIndex": 0,
+                    "label": "Basic Cell",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DD",
+                    "baseIndex": 0,
+                    "label": "Robo's Room",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DE",
+                    "baseIndex": 0,
+                    "label": "Merry-Go-Round",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2DF",
+                    "baseIndex": 0,
+                    "label": "Diamond Fences",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E0",
+                    "baseIndex": 0,
+                    "label": "No-Man's Land",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E1",
+                    "baseIndex": 0,
+                    "label": "Crevice Court",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E2",
+                    "baseIndex": 0,
+                    "label": "Scramble Walls",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E3",
+                    "baseIndex": 0,
+                    "label": "Double Dead Line",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E4",
+                    "baseIndex": 0,
+                    "label": "Little Locomotive",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E5",
+                    "baseIndex": 0,
+                    "label": "Magma Hole",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E6",
+                    "baseIndex": 0,
+                    "label": "Checkmate Factory",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E7",
+                    "baseIndex": 0,
+                    "label": "Castle Keep",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E8",
+                    "baseIndex": 0,
+                    "label": "Ice and Snow",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2E9",
+                    "baseIndex": 0,
+                    "label": "Nature Park",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2EA",
+                    "baseIndex": 0,
+                    "label": "Practice Stage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2EB",
+                    "baseIndex": 0,
+                    "label": "Random Stage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2EC",
+                    "baseIndex": 0,
+                    "label": "Diamond Cell",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2ED",
+                    "baseIndex": 0,
+                    "label": "High-Rise Cell",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2EE",
+                    "baseIndex": 0,
+                    "label": "Castle Citadel",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2EF",
+                    "baseIndex": 0,
+                    "label": "Lost World",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F0",
+                    "baseIndex": 0,
+                    "label": "Chinese Bowl",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F1",
+                    "baseIndex": 0,
+                    "label": "Magma Ruins",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F2",
+                    "baseIndex": 0,
+                    "label": "Dead Line",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F3",
+                    "baseIndex": 0,
+                    "label": "Panic Cubes",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F4",
+                    "baseIndex": 0,
+                    "label": "Panic Walls",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F5",
+                    "baseIndex": 0,
+                    "label": "Loading Dock",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F6",
+                    "baseIndex": 0,
+                    "label": "Battle Gear Station",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F7",
+                    "baseIndex": 0,
+                    "label": "Sudden Death",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F8",
+                    "baseIndex": 0,
+                    "label": "Gigantix Sprawl",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041A2F9",
+                    "baseIndex": 0,
+                    "label": "Dark Star",
+                    "typeIndex": 0,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Stage List"
+        },
+        {
+            "groupEntries": [
+                {
+                    "absoluteBranch": false,
+                    "address": "8039731E",
+                    "baseIndex": 1,
+                    "label": "Robo 1 or 2 Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "803987F6",
+                    "baseIndex": 1,
+                    "label": "Robo 3 or 4 Check",
+                    "typeIndex": 1,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040B922",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Selected",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BAC0",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Menu Cursor",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BBEF",
+                    "baseIndex": 1,
+                    "label": "Secret Select",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BBEE",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Secret Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BAB7",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Body",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BAB9",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Gun",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BABB",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Bomb",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BABD",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Pod",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BABF",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Legs",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8040BA44",
+                    "baseIndex": 1,
+                    "label": "Robo 1 Color",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "804102B6",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Selected",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80410454",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Menu Cursor",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80410582",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Secret Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041044B",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Body",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041044D",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Gun",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041044F",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Bomb",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80410451",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Pod",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80410453",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Legs",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "804103D8",
+                    "baseIndex": 1,
+                    "label": "Robo 2 Color",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414C4A",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Selected",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DE8",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Menu Cursor",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414F16",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Secret Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DDF",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Body",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DE1",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Gun",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DE3",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Bomb",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DE5",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Pod",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414DE7",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Legs",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80414D6C",
+                    "baseIndex": 1,
+                    "label": "Robo 3 Color",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "804195DE",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Selected",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041977C",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Menu Cursor",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "804198AA",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Secret Check",
+                    "typeIndex": 1,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80419773",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Body",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80419775",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Gun",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80419777",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Bomb",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80419779",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Pod",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "8041977B",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Legs",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
+                    "address": "80419700",
+                    "baseIndex": 1,
+                    "label": "Robo 4 Color",
+                    "typeIndex": 1,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Robo Menu"
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8024E25B",
+            "baseIndex": 1,
+            "label": "Robo 1 Current Dashes",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8028177B",
+            "baseIndex": 1,
+            "label": "Robo 2 Current Dashes",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "802B4C9B",
+            "baseIndex": 1,
+            "label": "Robo 3 Current Dashes",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "802E81BB",
+            "baseIndex": 1,
+            "label": "Robo 4 Current Dashes",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8044EAD4",
+            "baseIndex": 1,
+            "label": "Slowdown Timer",
+            "typeIndex": 1,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "80324CE4",
+            "baseIndex": 0,
+            "label": "Camera Rotation In Game",
+            "typeIndex": 3,
+            "unsigned": true
+        },
+        {
+            "absoluteBranch": false,
+            "address": "8039AABA",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 1,
+            "unsigned": true
+        }
+    ]
+}
